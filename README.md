@@ -11,7 +11,8 @@ Analista de Sistemas em constante aprendizado.
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kamiceccon?s=11)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamillaCeccon&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamillaCeccon&show_icons=true&theme=transparent)
+
 
 ## Tecnologias que uso no meu dia a dia 
 
