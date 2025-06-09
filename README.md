@@ -7,9 +7,9 @@ Analista de Sistemas em constante aprendizado e apaixonada por tecnologia.
 ### Onde me encontrar ⬇️
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilla-ceccon/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamiceccon/)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kamiceccon?s=11)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamillaceccon@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamiceccon/)
+
 ---
 
 ### Meu Desempenho no GitHub
