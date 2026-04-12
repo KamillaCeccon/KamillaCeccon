@@ -1,31 +1,49 @@
-### Olá! Sou a Kamilla Ceccon 🙋🏻
+<h1 align="center">Olá! Eu sou a Kamilla Ceccon 👩🏻‍💻</h1>
 
-Analista de Sistemas em constante aprendizado e apaixonada por tecnologia.
-
----
-
-### Onde me encontrar ⬇️
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilla-ceccon/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamillaceccon@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamiceccon/)
+<p align="center">
+Desenvolvedora em constante aprendizado e apaixonada por tecnologia 🚀
+</p>
 
 ---
 
-### Meu Desempenho no GitHub
+## 🌐 Onde me encontrar
 
-Aqui estão alguns dos meus números no GitHub. Se os commits não estiverem totalmente atualizados, pode ser um pequeno atraso do serviço, mas estou sempre na ativa!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamillaCeccon&show_icons=true&bg_color=00000000)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamilla-ceccon/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kamillaceccon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/kamiceccon/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
 ---
-### 🛠️ Minhas Ferramentas e Linguagens
+## 🛠️ Tecnologias e Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamillaCeccon&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-E4405F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC"/>
+  <img src="https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-009688?style=for-the-badge"/>
+</p>
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/Sql-E4405F?style=for-the-badge&logo=sql&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
-![Scrum](https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-009688?style=for-the-badge&logo=kanban&logoColor=white)
+---
+
+## ✨ Sobre mim
+
+
+- 📚 Sempre estudando Java, APIs e backend
+- Iniciando no React
+- 🚀 Focada em evoluir como desenvolvedora
+- 🤝 Aberta a oportunidades e networking
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+GitHub!;Sempre+aprendendo+coisas+novas;Java+%7C+APIs+%7C+Backend"/>
+</p>
