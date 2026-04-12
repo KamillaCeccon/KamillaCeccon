@@ -45,5 +45,5 @@ Desenvolvedora em constante aprendizado e apaixonada por tecnologia 🚀
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+GitHub!;Sempre+aprendendo+coisas+novas;Java+%7C+APIs+%7C+Backend"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Bem-vindos+ao+meu+GitHub!;Sempre+aprendendo+coisas+novas;Java+%7C+APIs+%7C+Backend"/>
 </p>
