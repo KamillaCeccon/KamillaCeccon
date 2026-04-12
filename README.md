@@ -16,7 +16,7 @@ Analista de Sistemas em constante aprendizado e apaixonada por tecnologia.
 
 Aqui estão alguns dos meus números no GitHub. Se os commits não estiverem totalmente atualizados, pode ser um pequeno atraso do serviço, mas estou sempre na ativa!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamillaCeccon&show_icons=true&theme=transparent&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamillaCeccon&show_icons=true&bg_color=00000000)
 
 ---
 ### 🛠️ Minhas Ferramentas e Linguagens
